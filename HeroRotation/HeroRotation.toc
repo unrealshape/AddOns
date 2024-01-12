@@ -37,6 +37,7 @@ BossMods.lua
 
 # APL Commons
 Commons.lua
+Common.lua
 
 # UI
 UI.xml
